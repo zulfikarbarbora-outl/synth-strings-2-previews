@@ -1,0 +1,194 @@
+{
+  "library": "Synth Strings 2",
+  "description": "Synth strings preset 2 from freepats",
+  "license": "CC0-1.0",
+  "author": "freepats.zenvoid.org",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/synth-strings-2",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/synth-strings-2-previews",
+  "branch": "main",
+  "fileCount": 18,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/",
+  "files": [
+    {
+      "file": "28.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/28.mp3",
+      "size": 159285,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "32.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/32.mp3",
+      "size": 125012,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "36.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/36.mp3",
+      "size": 137551,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "40.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/40.mp3",
+      "size": 99935,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "44.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/44.mp3",
+      "size": 107458,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "48.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/48.mp3",
+      "size": 104950,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "52.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/52.mp3",
+      "size": 96173,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "56.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/56.mp3",
+      "size": 79455,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "60.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/60.mp3",
+      "size": 83634,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "64.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/64.mp3",
+      "size": 86560,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "68.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/68.mp3",
+      "size": 86560,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "72.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/72.mp3",
+      "size": 83216,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "76.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/76.mp3",
+      "size": 80709,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "80.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/80.mp3",
+      "size": 69424,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "84.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/84.mp3",
+      "size": 64826,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "88.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/88.mp3",
+      "size": 66498,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "92.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/92.mp3",
+      "size": 58557,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "96.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-previews/main/96.mp3",
+      "size": 68588,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {}
+}
